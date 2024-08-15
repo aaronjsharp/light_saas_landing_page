@@ -24,6 +24,7 @@ export const Header = () => {
               <a href='#'>About</a>
               <a href='#'>Features</a>
               <a href='#'>Customers</a>
+              <a href='#'>Pricing</a>
               <a href='#'>Updates</a>
               <a href='#'>Help</a>
               <button className='btn btn-primary'>
